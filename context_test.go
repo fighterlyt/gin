@@ -21,8 +21,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gin-contrib/sse"
 	"github.com/fighterlyt/gin/binding"
+	"github.com/gin-contrib/sse"
 	"github.com/golang/protobuf/proto"
 	"github.com/stretchr/testify/assert"
 

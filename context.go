@@ -18,9 +18,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gin-contrib/sse"
 	"github.com/fighterlyt/gin/binding"
 	"github.com/fighterlyt/gin/render"
+	"github.com/gin-contrib/sse"
 )
 
 // Content-Type MIME of the most common data formats.
